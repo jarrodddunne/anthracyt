@@ -1,0 +1,432 @@
+[
+    {
+        "outputFile": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\src\\main\\res\\values-v11\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 60,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 59,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\src\\main\\res\\values-v11\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 59,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 59,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\src\\main\\res\\values-v11\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 59,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2066
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2071,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2493
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1984,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2498,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2918
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2411,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2923,
+                    "endColumn": 88,
+                    "endOffset": 3007
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3062,
+                        "endColumn": 88,
+                        "endOffset": 3146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3012,
+                    "endColumn": 100,
+                    "endOffset": 3108
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3151,
+                        "endColumn": 100,
+                        "endOffset": 3247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3113,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3516
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3252,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3521,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3660,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4043
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4306,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4048,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4172
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4413,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4177,
+                    "endColumn": 70,
+                    "endOffset": 4243
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4768,
+                        "endColumn": 70,
+                        "endOffset": 4834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4248,
+                    "endColumn": 82,
+                    "endOffset": 4326
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4839,
+                        "endColumn": 82,
+                        "endOffset": 4917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4331,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 8034
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4922,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8039,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 11882
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8630,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 12473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 11887,
+                    "endColumn": 90,
+                    "endOffset": 11973
+                },
+                "from": {
+                    "file": "C:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12704,
+                        "endColumn": 90,
+                        "endOffset": 12790
+                    }
+                }
+            }
+        ]
+    }
+]
