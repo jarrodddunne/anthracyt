@@ -94,8 +94,8 @@ public class ToDoActivity extends FragmentActivity {
     // Define the connection-string with your values
     public static final String storageConnectionString =
             "DefaultEndpointsProtocol=http;" +
-                    "AccountName=anthracyt;" +
-                    "AccountKey=qp2QF/xHuWS9KhgvaWKIKjD/sGM5DWcqZHJaU0JIiyVvKzYy48t0kDm/HAHgjNRgbnsLp7b1kvJ8eBMCYFPkTA==";
+                    "AccountName=ENTER ACCOUNT NAME HERE;" +
+                    "AccountKey=INSERT KEYS HERE";
 
     // Storage Permissions
     private static final int REQUEST_EXTERNAL_STORAGE = 1;

@@ -1,7 +1,4 @@
-#Sun Oct 16 12:11:23 CDT 2016
-base.0=C\:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_922fcaa6acbc7f7bc987de5e29d18e86a2fbe6d3
-renamed.1=classes2.dex
+#Mon Oct 17 13:38:51 CDT 2016
+base.0=C\:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=C\:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9d5fc62983d5f86f7eee2a60b2e79af13b5d1c77\\classes.dex
-base.1=C\:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9d5fc62983d5f86f7eee2a60b2e79af13b5d1c77
-file.0=C\:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_922fcaa6acbc7f7bc987de5e29d18e86a2fbe6d3\\classes.dex
+file.0=C\:\\Users\\jarrod\\hackrice_2016\\Anthracyt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
